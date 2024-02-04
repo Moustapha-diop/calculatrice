@@ -1,0 +1,45 @@
+section{
+    width: 280px;
+    height: 430px;
+    background-color: black;
+    border: 7px solid gray;
+    border-radius: 10px;
+    padding-top: 100px;
+    margin-left: 250px;
+    padding-left: 20px;
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: none;
+    margin: 5px;
+    color: white;
+    background-color: gray;
+}
+
+.div1 button{
+    color:black;
+    background-color: white;
+}
+
+.oper{
+    background-color: rgb(232, 164, 19);
+    color: white;
+}
+
+.chif{
+    width: 115px;
+    border-radius: 15px;
+    height: 40px;
+    text-align: start;
+}
+
+.p1{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 100px;
+}
